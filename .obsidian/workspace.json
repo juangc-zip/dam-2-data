@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "589dcb5a84589a39",
+    "type": "split",
+    "children": [
+      {
+        "id": "2238d4fee61c0719",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "340de02ccc47d5c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79408d1f0f71da72",
+    "type": "split",
+    "children": [
+      {
+        "id": "1474bedf84fcf7e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7fdc073d20399c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "376d25e3e9f64974",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95f65acd45c0518a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.00521087646484
+  },
+  "right": {
+    "id": "c23586e163850563",
+    "type": "split",
+    "children": [
+      {
+        "id": "09d12bed3ce46857",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ff6fe9ab42facd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce34a56b8e25784c",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_c8382bc85a18",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 6,
+                    "month": 8,
+                    "year": 2024
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                },
+                "id": "ID_da8b997a182a"
+              }
+            }
+          },
+          {
+            "id": "ffd7477190da3e02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/UT1 Programación multiproceso.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b215f119a0a9c2a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/UT1 Programación multiproceso.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dad393873298f08a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/UT1 Programación multiproceso.pdf"
+              }
+            }
+          },
+          {
+            "id": "f989afa6e7ad6509",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_c8382bc85a18",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 6,
+                    "month": 8,
+                    "year": 2024
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                },
+                "id": "ID_ca7a6a38594a"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 693.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "b7fdc073d20399c1",
+  "lastOpenFiles": [
+    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-conceptos/resumen-conceptos.md",
+    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-conceptos",
+    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-conceptos/resumen-conceptos-2.md",
+    "🔵┃programacion-multimedia/➊⟧ trimestre/introduccion/T0.1 Introducción a Kotlin.pdf",
+    "🔵┃programacion-multimedia/➊⟧ trimestre/introduccion/resumen-conceptos.md",
+    "⚪┃notas-tareas/octubre/2024-10-02.md",
+    "informacion-hackathon.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-velneo.md",
+    "⚪┃notas-tareas/octubre",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-general.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/ejercicios-md/ejercicio-erp.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-pdf/SGE-UD2-Ejercicio-LicenciasERPs-JuanGarcia.pdf",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-pdf/lu373flo2.tmp",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-word/SGE-UD2-Ejercicio-LicenciasERPs-JuanGarcia.odt",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-word/lu373flny.tmp",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/ejercicios-md/ejercicio-licencias.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-pdf/SGE-UD2-Ejercicio-Licencias-JuanGarcia.pdf",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-pdf/lu373eadm.tmp",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-word/SGE-UD2-Ejercicio-Licencias-JuanGarcia.odt",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/resumen-unidad.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/resumen-conceptos.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/Untitled.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicios-erp.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-helados.md",
+    "informacion-practicas.md",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/movimiento-tableros.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-1.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-1 1.md",
+    "🔵┃programacion-multimedia/➊⟧ trimestre/unidad-1/resumen-tema.md",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-coches.md",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicios.csharp.md",
+    "⚪┃notas-tareas/septiembre/2024-09-30.md",
+    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/resumen-tema.md",
+    "⚪┃notas-tareas/septiembre/2024-09-25.md"
+  ]
+}
