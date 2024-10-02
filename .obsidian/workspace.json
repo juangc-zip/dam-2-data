@@ -11,8 +11,12 @@
             "id": "340de02ccc47d5c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "informacion-practicas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -115,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/UT1 Programación multiproceso.pdf",
+                "file": "informacion-practicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/UT1 Programación multiproceso.pdf",
+                "file": "informacion-practicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/UT1 Programación multiproceso.pdf"
+                "file": "informacion-practicas.md"
               }
             }
           },
@@ -188,8 +192,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b7fdc073d20399c1",
+  "active": "340de02ccc47d5c3",
   "lastOpenFiles": [
+    "README.md",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-conceptos/resumen-conceptos.md",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-conceptos",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-conceptos/resumen-conceptos-2.md",
