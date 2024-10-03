@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "informacion-practicas.md",
+                "file": "informacion-hackathon.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "informacion-practicas.md",
+                "file": "informacion-hackathon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "informacion-practicas.md",
+                "file": "informacion-hackathon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "informacion-practicas.md"
+                "file": "informacion-hackathon.md"
               }
             }
           },
@@ -195,6 +195,7 @@
   "active": "340de02ccc47d5c3",
   "lastOpenFiles": [
     "README.md",
+    "informacion-practicas.md",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-conceptos/resumen-conceptos.md",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-conceptos",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-conceptos/resumen-conceptos-2.md",
@@ -220,7 +221,6 @@
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/Untitled.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicios-erp.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-helados.md",
-    "informacion-practicas.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/movimiento-tableros.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-1.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-1 1.md",
