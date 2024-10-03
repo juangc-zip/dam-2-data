@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "informacion-hackathon.md",
+                "file": "proyecto-empresa/prompt-logotipo.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "informacion-hackathon.md",
+                "file": "proyecto-empresa/prompt-logotipo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "informacion-hackathon.md",
+                "file": "proyecto-empresa/prompt-logotipo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "informacion-hackathon.md"
+                "file": "proyecto-empresa/prompt-logotipo.md"
               }
             }
           },
@@ -183,17 +183,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "340de02ccc47d5c3",
   "lastOpenFiles": [
+    "proyecto-empresa/informacion-principal.md",
+    "proyecto-empresa/prompt-logotipo.md",
+    "proyecto-empresa/recursos-utilizados/res-images/mascota-san.jpeg",
+    "proyecto-empresa/recursos-utilizados/res-images",
+    "proyecto-empresa/recursos-utilizados",
+    "informacion-hackathon.md",
+    "proyecto-empresa",
     "informacion-practicas.md",
     "README.md",
     "informacion-practicas.md",
@@ -203,7 +210,6 @@
     "🔵┃programacion-multimedia/➊⟧ trimestre/introduccion/T0.1 Introducción a Kotlin.pdf",
     "🔵┃programacion-multimedia/➊⟧ trimestre/introduccion/resumen-conceptos.md",
     "⚪┃notas-tareas/octubre/2024-10-02.md",
-    "informacion-hackathon.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-velneo.md",
     "⚪┃notas-tareas/octubre",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
@@ -214,9 +220,6 @@
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-word/SGE-UD2-Ejercicio-LicenciasERPs-JuanGarcia.odt",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-word/lu373flny.tmp",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/ejercicios-md/ejercicio-licencias.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-pdf/SGE-UD2-Ejercicio-Licencias-JuanGarcia.pdf",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-pdf/lu373eadm.tmp",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-word/SGE-UD2-Ejercicio-Licencias-JuanGarcia.odt",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/resumen-unidad.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/resumen-conceptos.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/Untitled.md",
@@ -227,9 +230,6 @@
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-1 1.md",
     "🔵┃programacion-multimedia/➊⟧ trimestre/unidad-1/resumen-tema.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-coches.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicios.csharp.md",
-    "⚪┃notas-tareas/septiembre/2024-09-30.md",
-    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/resumen-tema.md",
-    "⚪┃notas-tareas/septiembre/2024-09-25.md"
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicios.csharp.md"
   ]
 }
