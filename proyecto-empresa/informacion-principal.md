@@ -13,5 +13,4 @@ Plataforma de bienestar mental personalizada por IA. Alquiler de dispositivos el
 __Nombre de la Empresa:__ MoodMate
 __Mascota de la Empresa:__
 ![[mascota-san.jpeg]]
-
 ————————————————————————————————————————————————

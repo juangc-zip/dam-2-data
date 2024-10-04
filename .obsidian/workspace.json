@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proyecto-empresa/prompt-logotipo.md",
+                "file": "proyecto-empresa/informacion-principal.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proyecto-empresa/prompt-logotipo.md",
+                "file": "proyecto-empresa/informacion-principal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "proyecto-empresa/prompt-logotipo.md",
+                "file": "proyecto-empresa/informacion-principal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "proyecto-empresa/prompt-logotipo.md"
+                "file": "proyecto-empresa/informacion-principal.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "340de02ccc47d5c3",
   "lastOpenFiles": [
-    "proyecto-empresa/informacion-principal.md",
     "proyecto-empresa/prompt-logotipo.md",
+    "proyecto-empresa/informacion-principal.md",
     "proyecto-empresa/recursos-utilizados/res-images/mascota-san.jpeg",
     "proyecto-empresa/recursos-utilizados/res-images",
     "proyecto-empresa/recursos-utilizados",
