@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a594af5f86e9d4f6",
+        "id": "00edc5ec172b7b10",
         "type": "tabs",
         "children": [
           {
-            "id": "97f7c29ed7aea49d",
+            "id": "f45aa9737d14ffe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proyecto-empresa/informacion-principal.md",
-                "mode": "preview",
+                "file": "⚪┃notas-tareas/octubre/2024-10-04.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proyecto-empresa/informacion-principal.md",
+                "file": "⚪┃notas-tareas/octubre/2024-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "proyecto-empresa/informacion-principal.md",
+                "file": "⚪┃notas-tareas/octubre/2024-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "proyecto-empresa/informacion-principal.md"
+                "file": "⚪┃notas-tareas/octubre/2024-10-04.md"
               }
             }
           }
@@ -147,11 +147,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "97f7c29ed7aea49d",
+  "active": "f45aa9737d14ffe8",
   "lastOpenFiles": [
+    "proyecto-empresa/informacion-principal.md",
+    "⚪┃notas-tareas/octubre/2024-10-04.md",
+    "⚪┃notas-tareas/octubre/2024-10-02.md",
     "informacion-hackathon.md",
     "informacion-practicas.md",
-    "proyecto-empresa/informacion-principal.md",
     "().md",
     "proyecto-empresa/prompt-logotipo.md",
     "proyecto-empresa/recursos-utilizados/res-images/simple-logo.webp",
