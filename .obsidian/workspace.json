@@ -1,44 +1,39 @@
 {
   "main": {
-    "id": "589dcb5a84589a39",
+    "id": "f8494212b5afc1c5",
     "type": "split",
     "children": [
       {
-        "id": "2238d4fee61c0719",
+        "id": "a594af5f86e9d4f6",
         "type": "tabs",
         "children": [
           {
-            "id": "340de02ccc47d5c3",
+            "id": "97f7c29ed7aea49d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
-=======
                 "file": "proyecto-empresa/informacion-principal.md",
->>>>>>> 3315d7652cf7212095b3a32925a7325cea2effcb
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "79408d1f0f71da72",
+    "id": "eb6b6122588d94ca",
     "type": "split",
     "children": [
       {
-        "id": "1474bedf84fcf7e2",
+        "id": "52b47aad76d840d7",
         "type": "tabs",
         "children": [
           {
-            "id": "b7fdc073d20399c1",
+            "id": "89a9163aaf499160",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +43,7 @@
             }
           },
           {
-            "id": "376d25e3e9f64974",
+            "id": "03e29a587970c4a4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +58,7 @@
             }
           },
           {
-            "id": "95f65acd45c0518a",
+            "id": "fb3bb2743680106d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,60 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.00521087646484
+    "width": 300
   },
   "right": {
-    "id": "c23586e163850563",
+    "id": "d4ac97f35abcf001",
     "type": "split",
     "children": [
       {
-        "id": "09d12bed3ce46857",
+        "id": "10d6f53fb1fae433",
         "type": "tabs",
         "children": [
           {
-            "id": "5ff6fe9ab42facd4",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ce34a56b8e25784c",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_c8382bc85a18",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 6,
-                    "month": 8,
-                    "year": 2024
-                  },
-                  "displayDayNumber": true,
-                  "displayMoons": true
-                },
-                "id": "ID_da8b997a182a"
-              }
-            }
-          },
-          {
-            "id": "ffd7477190da3e02",
+            "id": "5e27d8f8b8def7fe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
-=======
                 "file": "proyecto-empresa/informacion-principal.md",
->>>>>>> 3315d7652cf7212095b3a32925a7325cea2effcb
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,62 +97,43 @@
             }
           },
           {
-            "id": "b215f119a0a9c2a0",
+            "id": "b493851880e18a50",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
-=======
                 "file": "proyecto-empresa/informacion-principal.md",
->>>>>>> 3315d7652cf7212095b3a32925a7325cea2effcb
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dad393873298f08a",
+            "id": "8a02106747774121",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-<<<<<<< HEAD
-                "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md"
-=======
-                "file": "proyecto-empresa/informacion-principal.md"
->>>>>>> 3315d7652cf7212095b3a32925a7325cea2effcb
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "f989afa6e7ad6509",
+            "id": "28f5ee8bfe572346",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM",
+              "type": "outline",
               "state": {
-                "calendar": "ID_c8382bc85a18",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 6,
-                    "month": 8,
-                    "year": 2024
-                  },
-                  "displayDayNumber": true,
-                  "displayMoons": true
-                },
-                "id": "ID_ca7a6a38594a"
+                "file": "proyecto-empresa/informacion-principal.md"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 693.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -208,47 +147,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "340de02ccc47d5c3",
+  "active": "97f7c29ed7aea49d",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-velneo.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-general.md",
-    "README.md",
-=======
->>>>>>> 3315d7652cf7212095b3a32925a7325cea2effcb
-    "proyecto-empresa/prompt-logotipo.md",
-    "proyecto-empresa/informacion-principal.md",
-    "proyecto-empresa/recursos-utilizados/res-images/mascota-san.jpeg",
-    "proyecto-empresa/recursos-utilizados/res-images",
-    "proyecto-empresa/recursos-utilizados",
     "informacion-hackathon.md",
-    "proyecto-empresa",
     "informacion-practicas.md",
-    "informacion-practicas.md",
-    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-conceptos/resumen-conceptos.md",
-    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-conceptos",
-    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-conceptos/resumen-conceptos-2.md",
-    "🔵┃programacion-multimedia/➊⟧ trimestre/introduccion/T0.1 Introducción a Kotlin.pdf",
-    "🔵┃programacion-multimedia/➊⟧ trimestre/introduccion/resumen-conceptos.md",
-    "⚪┃notas-tareas/octubre/2024-10-02.md",
-    "⚪┃notas-tareas/octubre",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/ejercicios-md/ejercicio-erp.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-pdf/SGE-UD2-Ejercicio-LicenciasERPs-JuanGarcia.pdf",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-pdf/lu373flo2.tmp",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-word/SGE-UD2-Ejercicio-LicenciasERPs-JuanGarcia.odt",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/documentos-word/lu373flny.tmp",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/ejercicios-md/ejercicio-licencias.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/resumen-unidad.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/resumen-conceptos.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/Untitled.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicios-erp.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-helados.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/movimiento-tableros.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-1.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-1 1.md",
-    "🔵┃programacion-multimedia/➊⟧ trimestre/unidad-1/resumen-tema.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-coches.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicios.csharp.md"
+    "proyecto-empresa/informacion-principal.md",
+    "().md",
+    "proyecto-empresa/prompt-logotipo.md",
+    "proyecto-empresa/recursos-utilizados/res-images/simple-logo.webp",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-velneo.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-general.md"
   ]
 }

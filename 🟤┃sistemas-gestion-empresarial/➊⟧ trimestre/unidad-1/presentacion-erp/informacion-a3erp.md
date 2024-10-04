@@ -1,4 +1,4 @@
-	##  ERP | TIER 2 | A3ERP
+##  ERP | TIER 2 | A3ERP
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ###   INFORMACION GENERAL
 A3ERP es un software de gestion empresarial integrado, esta diseñador especificamente para pequeñas y medianas empresas (PYMES). Unifica diferentes areas de la empresa proporcionando una vision completa en tiempo real  de todos los procesos productivos y administrativos. Con lo que permite tener un control centralizado de la informacion y falicita la toma de decisiones.
