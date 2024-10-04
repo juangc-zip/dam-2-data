@@ -1,4 +1,4 @@
-##  ERP | TIER 2 | A3ERP
+	##  ERP | TIER 2 | A3ERP
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ###   INFORMACION GENERAL
 A3ERP es un software de gestion empresarial integrado, esta diseñador especificamente para pequeñas y medianas empresas (PYMES). Unifica diferentes areas de la empresa proporcionando una vision completa en tiempo real  de todos los procesos productivos y administrativos. Con lo que permite tener un control centralizado de la informacion y falicita la toma de decisiones.
@@ -46,7 +46,13 @@ Tambien detectamos que es personalizable ya que tenemos documentos definibles, c
 ———————————————————————————————————————————————————————————————————————————
 ###   OFERTAS DE EMPLEO
 ####    OFERTAS A NIVEL NACIONAL
+__Ofertas Infojobs:__ 70 ofertas de empleo en diferentes puestos. Indican la modalidad: 24 | Presencial: 20 | Hibrida: 3 | Solo teletrbajo: 1
+- __Salarios:__ Mayoria - Salario No Disponible. Asesor Telecomunicaciones: 1.200-2.000€ bruto/mes. Tecnico de Mantenimiento: 25.000-30.000€ bruto/año.
+	- __Asesor Telecomunicaciones:__ sueldo base 1.190€ brutos + comisiones. Media de incentivos 200-500€.
 
-####    OFERTAS A NIVEL EUROPERO
-
+__Ofertas LinkedIn:__ 2 ofertas de emplero en diferentes puestos. Hibrido y Remoto. No se indica el salario en ningun caso.
+	- _Consulto de Soporte a A3ERP_  |  _Consultor de Control de Finanzas SAP_.
+####    OFERTAS A NIVEL EXTRANJERO
+__Ofertas Infojobs:__ No se han encontrado ofertas.
+__Ofertas LinkedIn:__ No se han encontrado ofertas nuevas.
 ———————————————————————————————————————————————————————————————————————————

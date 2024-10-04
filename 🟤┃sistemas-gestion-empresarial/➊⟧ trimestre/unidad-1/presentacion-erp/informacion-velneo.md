@@ -57,5 +57,9 @@ No hay que olvidar que tambien dispone de una opcion parametrizable, la cual uni
 ———————————————————————————————————————————————————————————————————————————
 ###   OFERTAS DE EMPLEO
 ####    OFERTAS A NIVEL NACIONAL
-####    OFERTAS A NIVEL EUROPERO
+__Ofertas Infojobs:__ No se ha encontrado ninguna oferta.
+__Ofertas LinkedIn:__ No se ha encontrado ninguna oferta.
+####    OFERTAS A NIVEL EXTRANJERO
+__Ofertas Infojobs:__ No se ha encontrado ninguna oferta.
+__Ofertas LinkedIn:__ No se ha encontrado ninguna oferta.
 ———————————————————————————————————————————————————————————————————————————
