@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
+=======
+                "file": "proyecto-empresa/informacion-principal.md",
+>>>>>>> 3315d7652cf7212095b3a32925a7325cea2effcb
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +123,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
+=======
+                "file": "proyecto-empresa/informacion-principal.md",
+>>>>>>> 3315d7652cf7212095b3a32925a7325cea2effcb
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +144,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
+=======
+                "file": "proyecto-empresa/informacion-principal.md",
+>>>>>>> 3315d7652cf7212095b3a32925a7325cea2effcb
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md"
+=======
+                "file": "proyecto-empresa/informacion-principal.md"
+>>>>>>> 3315d7652cf7212095b3a32925a7325cea2effcb
               }
             }
           },
@@ -194,10 +210,13 @@
   },
   "active": "340de02ccc47d5c3",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-velneo.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-general.md",
     "README.md",
+=======
+>>>>>>> 3315d7652cf7212095b3a32925a7325cea2effcb
     "proyecto-empresa/prompt-logotipo.md",
     "proyecto-empresa/informacion-principal.md",
     "proyecto-empresa/recursos-utilizados/res-images/mascota-san.jpeg",
