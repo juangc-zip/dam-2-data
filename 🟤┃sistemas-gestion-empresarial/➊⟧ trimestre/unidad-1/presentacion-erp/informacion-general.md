@@ -15,7 +15,6 @@ Informacion sobre Velneo en la nota dedicada: [[informacion-velneo]]
 ——————————————————————————————————————————————————————————————————
 ####    ERP | TIER 2 | A3ERP
 Informacion sobre A3ERP en la nota dedicada: [[informacion-a3erp]]
-——————————————————————————————————————————————————————————————————
 —————————————————————————————————————————————————————————————————————————————————————————————————
 ###   PRESENTACION | GUION
 1. __Introduccion:__ A continuacion vamos a presentar el estudio de mercado sobre Velneo y A3ERP. En los que vamos a tratar diferentes puntos:
