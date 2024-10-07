@@ -11,8 +11,12 @@
             "id": "0e2c9d9bd52be9de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros/ejercicio-mario-bros.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 319.5
   },
   "right": {
     "id": "d4ac97f35abcf001",
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
+                "file": "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros/ejercicio-mario-bros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
+                "file": "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros/ejercicio-mario-bros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md"
+                "file": "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros/ejercicio-mario-bros.md"
               }
             }
           }
@@ -143,8 +147,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "89a9163aaf499160",
+  "active": "0e2c9d9bd52be9de",
   "lastOpenFiles": [
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-1.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicios-erp.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-helados.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/resumen-unidad.md",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros/ejercicio-mario-bros.md",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/resumen-conceptos.md",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/movimiento-tableros.md",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/documentos-word/SDE-UD1-Guion-EstudioMercado-JuanGarcia.docx",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/documentos-pdf/SDE-UD1-Guion-EstudioMercado-JuanGarcia.pdf",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-velneo.md",
