@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d9e93a350a62233",
+        "id": "feb08aaa8471efa3",
         "type": "tabs",
         "children": [
           {
-            "id": "0e2c9d9bd52be9de",
+            "id": "893aef3a72cd9dba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros/ejercicio-mario-bros.md",
+                "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-crm/informacion-sugar-crm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros/ejercicio-mario-bros.md",
+                "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-crm/informacion-sugar-crm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros/ejercicio-mario-bros.md",
+                "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-crm/informacion-sugar-crm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros/ejercicio-mario-bros.md"
+                "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-crm/informacion-sugar-crm.md"
               }
             }
           }
@@ -138,38 +138,82 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0e2c9d9bd52be9de",
+  "floating": {
+    "id": "fd266c46dd3c5091",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5817d9e52938b186",
+        "type": "window",
+        "children": [
+          {
+            "id": "90678a15d45ceb5f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d56ad56b59b2f923",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-crm/informacion-capsule.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -960,
+        "y": 0,
+        "width": 960,
+        "height": 1080,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "893aef3a72cd9dba",
   "lastOpenFiles": [
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-crm/informacion-capsule.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-crm/informacion-sugar-crm.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-crm/informacion-general.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-velneo.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-general.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/ejercicios-md/ejercicio-stallman.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-crm",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/ejercicios-md/ejercicio-licencias.md",
+    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/informacion-general.md",
+    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/ejemplo-mapa-empatia.md",
+    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/ejercicios-md/ejercicio-erp.md",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros/ejercicio-mario-bros.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-1.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicios-erp.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-helados.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/resumen-unidad.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros/ejercicio-mario-bros.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/resumen-conceptos.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/movimiento-tableros.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/documentos-word/SDE-UD1-Guion-EstudioMercado-JuanGarcia.docx",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/documentos-pdf/SDE-UD1-Guion-EstudioMercado-JuanGarcia.pdf",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-velneo.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-general.md",
     "README.md",
     "informacion-practicas.md",
     "informacion-hackathon.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/modelo-negocio-canva.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa-moodmate.rar",
     "proyecto-empresa/informacion-principal.md",
-    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/informacion-general.md",
-    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/ejemplo-mapa-empatia.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/propuesta-valor.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/ejemplo-mapa-empatia.canvas",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images",
@@ -178,8 +222,6 @@
     "🟡┃empresa-iniciativa-emprendedora",
     "⚪┃notas-tareas/octubre/2024-10-04.md",
     "⚪┃notas-tareas/octubre/2024-10-02.md",
-    "().md",
-    "proyecto-empresa/prompt-logotipo.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/simple-logo.webp"
   ]
 }
