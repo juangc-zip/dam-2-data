@@ -49,4 +49,5 @@ Aunque hay que tener en cuenta que la version que mas se utiliza es MySQL. Pero 
 ####    INSTALACION | INFORMACION GENERAL
 
 ####    INSTALACION | PERSONALIZACION
+
 ———————————————————————————————————————————————————————————————————————————

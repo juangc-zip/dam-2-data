@@ -54,6 +54,44 @@ public Jugador (string inputNombre) {
 ####    METODOS PRIVADOS ESPECIFICOS
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————
 ####    METODOS PUBLICOS GENERALES
+#####     METODO | TIENE MIN PECES
+metodo "tieneMinPeces" | devuelve true si el jugador tiene el minimo de peces
+```c#
+public static bool tieneMinPeces (Jugador inputJugador) {
+	bool _tieneMinPeces = false;
+	if (inputJugador._numPeces == inputJugador._minPeces) {
+		_tieneMinPeces = true;
+	}
+	
+	return _tieneMinPeces;
+}
+```
+——————————————————————————————————————————————————————————————————————————————————————————————
+#####     METODO | NO QUEDAN SALTOS
+metodo "noQuedanSaltos" | devuelve true si el jugador no tiene mas saltos
+```c#
+public static bool noQuedanSaltos (Jugador inputJugador) {
+	bool _noQuedanSaltos = false;
+	if (inputJugador._maxSaltos <= 0) {
+		_noQuedanSaltos = true;
+	}
+	
+	return _noQuedanSaltos;
+}
+```
+——————————————————————————————————————————————————————————————————————————————————————————————
+#####     METODO | NO QUEDAN VIDAS
+metodo "noQuedanVidas" | devuelve true si el jugador no tiene mas vidas
+```c#
+public static bool noQuedanVidas (Jugador inputJugador) {
+	bool _noQuedanVidas = false;
+	if (inputJugador._numVidas <= 0) {
+		_noQuedanVidas = true;
+	}
+	
+	return _noQuedanVidas;
+}
+```
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————
 ####    GETTERS & SETTERS ATRIBUTOS
 #####     CARACTER-NOMBRE JUGADOR
