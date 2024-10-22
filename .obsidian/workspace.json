@@ -11,10 +11,14 @@
             "id": "56e04c96c36bbd15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🟡┃empresa-iniciativa-emprendedora/unidod-1/analisis-dafo.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "analisis-dafo"
             }
           }
         ]
@@ -39,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -150,17 +154,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "56e04c96c36bbd15",
   "lastOpenFiles": [
+    "🟡┃empresa-iniciativa-emprendedora/unidod-1/informacion-trabajo.md",
+    "🟡┃empresa-iniciativa-emprendedora/unidod-1/analisis-dafo.md",
+    "🟡┃empresa-iniciativa-emprendedora/unidod-1",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-pdf/RESUMEN _ HILOS.pdf",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-pdf/UT1_Ejercicios_programación_multiproceso.pdf",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-pdf/UT1 Programación multiproceso.pdf",
@@ -178,9 +185,7 @@
     "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen/plantillaControlador.java",
     "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/resumen-conceptos.md",
     "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen/instrucciones-envio.md",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/proyecto-trimestral.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/documentacion",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/diagrama-casos-uso/DI-TRI1-Poryecto-Diagrama-Casos-Uso.jpg",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/Untitled.md",
     "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/documentacion-docker/repositorio-oci-oracle-xe.md",
@@ -197,7 +202,6 @@
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/movimiento-tableros.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/ejemplo-mapa-empatia.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/propuesta-valor.md",
-    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/modelo-negocio-canva.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/simple-logo.webp",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/mascota-san.jpeg",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/ejemplo-mapa-empatia.canvas"
