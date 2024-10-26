@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6269e0395ee6dad3",
+        "id": "dce693351b325108",
         "type": "tabs",
         "children": [
           {
-            "id": "56e04c96c36bbd15",
+            "id": "54c5968bf713c98d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟡┃empresa-iniciativa-emprendedora/unidod-1/analisis-dafo.md",
-                "mode": "preview",
+                "file": "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/expresiones -lambda.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "analisis-dafo"
+              "title": "expresiones -lambda"
             }
           }
         ]
@@ -163,26 +163,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "56e04c96c36bbd15",
+  "active": "54c5968bf713c98d",
   "lastOpenFiles": [
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/documentos-pdf/C# Lambda Expresions y LINQ.pdf",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/expresiones -lambda.md",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/documentos-word/C# Lambda Expresions y LINQ.docx",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/documentos-pdf",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/documentos-word",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2",
+    "🟡┃empresa-iniciativa-emprendedora/unidod-1/ejercicio-analisis/APE-Analisis-CAME-JuanGarcia.pdf",
     "🟡┃empresa-iniciativa-emprendedora/unidod-1/informacion-trabajo.md",
     "🟡┃empresa-iniciativa-emprendedora/unidod-1/analisis-dafo.md",
     "🟡┃empresa-iniciativa-emprendedora/unidod-1",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-pdf/RESUMEN _ HILOS.pdf",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-pdf/UT1_Ejercicios_programación_multiproceso.pdf",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-pdf/UT1 Programación multiproceso.pdf",
-    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-pdf/RESUMEN _ PROCESOS.pdf",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/preparacion-examen/enunciados-procesos.md",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/preparacion-examen/enunciados-hilos.md",
     "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/preparacion-examen/enunciado-2.md",
-    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/preparacion-examen",
     "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/preparacion-examen/enunciado-1.md",
     "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/preparacion-examen/enunciado-3.md",
     "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen/code-templates.md",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/preparacion-examen",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen/plantillaVentanaTexto.java",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen/plantillaInterfazVista.java",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen/plantillaControlador.java",
     "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/resumen-conceptos.md",
     "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen/instrucciones-envio.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/proyecto-trimestral.md",
@@ -200,8 +201,6 @@
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/clase-helperClass.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros/ejercicio-mario-bros.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/movimiento-tableros.md",
-    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/ejemplo-mapa-empatia.md",
-    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/propuesta-valor.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/simple-logo.webp",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/mascota-san.jpeg",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/ejemplo-mapa-empatia.canvas"
