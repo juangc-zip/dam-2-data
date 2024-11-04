@@ -5,6 +5,7 @@
     "children": [
       {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "id": "dce693351b325108",
         "type": "tabs",
         "children": [
@@ -17,27 +18,43 @@
           {
             "id": "f7a369c842cf7df0",
 >>>>>>> Stashed changes
+=======
+        "id": "bd166fff94474e6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71f7b32f4922b676",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/expresiones -lambda.md",
 =======
                 "file": "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/proyecto-trimestral.md",
+>>>>>>> Stashed changes
+=======
+                "file": "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/informacion-general.md",
 >>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "title": "expresiones -lambda"
 =======
               "title": "proyecto-trimestral"
 >>>>>>> Stashed changes
+=======
+              "title": "informacion-general"
+>>>>>>> Stashed changes
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -93,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "d4ac97f35abcf001",
@@ -180,10 +198,18 @@
     }
   },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "active": "54c5968bf713c98d",
+=======
+  "active": "71f7b32f4922b676",
+>>>>>>> Stashed changes
   "lastOpenFiles": [
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/documentos-pdf/C# Lambda Expresions y LINQ.pdf",
+    "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/requisitos-proyecto.md",
+    "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/informacion-general.md",
+    "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/documentacion-extra",
+    "🔵┃programacion-multimedia/➊⟧ trimestre/unidad-1/resumen-conceptos.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/expresiones -lambda.md",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/documentos-pdf/C# Lambda Expresions y LINQ.pdf",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/documentos-word/C# Lambda Expresions y LINQ.docx",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/documentos-pdf",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/documentos-word",
@@ -201,7 +227,6 @@
 >>>>>>> Stashed changes
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-pdf/RESUMEN _ HILOS.pdf",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-pdf/UT1_Ejercicios_programación_multiproceso.pdf",
-    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-pdf/UT1 Programación multiproceso.pdf",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/preparacion-examen/enunciados-procesos.md",
     "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/preparacion-examen/enunciados-hilos.md",
     "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/preparacion-examen/enunciado-2.md",
@@ -231,9 +256,6 @@
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/objeto-jugador.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/objeto-tablero.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/informacion-general.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/clase-helperClass.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros/ejercicio-mario-bros.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/movimiento-tableros.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/simple-logo.webp",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/mascota-san.jpeg",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/ejemplo-mapa-empatia.canvas"
