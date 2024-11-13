@@ -1,74 +1,37 @@
 {
   "main": {
-    "id": "f8494212b5afc1c5",
+    "id": "8ed69aff1b1737c1",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        "id": "dce693351b325108",
+        "id": "67629956881e6075",
         "type": "tabs",
         "children": [
           {
-            "id": "54c5968bf713c98d",
-=======
-        "id": "500c5058c953c82a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f7a369c842cf7df0",
->>>>>>> Stashed changes
-=======
-        "id": "bd166fff94474e6d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "71f7b32f4922b676",
->>>>>>> Stashed changes
+            "id": "8a188206873145b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                "file": "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/expresiones -lambda.md",
-=======
-                "file": "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/proyecto-trimestral.md",
->>>>>>> Stashed changes
-=======
-                "file": "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/informacion-general.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-              "title": "expresiones -lambda"
-=======
-              "title": "proyecto-trimestral"
->>>>>>> Stashed changes
-=======
-              "title": "informacion-general"
->>>>>>> Stashed changes
+              "title": "New tab"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "eb6b6122588d94ca",
+    "id": "f5f8b8df0243554e",
     "type": "split",
     "children": [
       {
-        "id": "52b47aad76d840d7",
+        "id": "9efbc7bea6932bd6",
         "type": "tabs",
         "children": [
           {
-            "id": "89a9163aaf499160",
+            "id": "fbfe1a760ba02522",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +43,7 @@
             }
           },
           {
-            "id": "03e29a587970c4a4",
+            "id": "833a25cdcb0eea9b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,36 +56,35 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
-            "id": "fb3bb2743680106d",
+            "id": "baa9c0a7cff1309d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
-    "id": "d4ac97f35abcf001",
+    "id": "7d5e7733df34c1aa",
     "type": "split",
     "children": [
       {
-        "id": "10d6f53fb1fae433",
+        "id": "f0ae8c614acb899e",
         "type": "tabs",
         "children": [
           {
-            "id": "5e27d8f8b8def7fe",
+            "id": "fc94c42e21f565b6",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -137,11 +99,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de proyecto-trimestral"
+              "title": "Backlinks for proyecto-trimestral"
             }
           },
           {
-            "id": "b493851880e18a50",
+            "id": "02863c6bb62bcc66",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -151,11 +113,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de proyecto-trimestral"
+              "title": "Outgoing links from proyecto-trimestral"
             }
           },
           {
-            "id": "8a02106747774121",
+            "id": "c3677dbe21366130",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -164,11 +126,11 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
-            "id": "28f5ee8bfe572346",
+            "id": "65eb882fef065291",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -176,7 +138,7 @@
                 "file": "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/proyecto-trimestral.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de proyecto-trimestral"
+              "title": "Outline of proyecto-trimestral"
             }
           }
         ]
@@ -197,67 +159,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  "active": "54c5968bf713c98d",
-=======
-  "active": "71f7b32f4922b676",
->>>>>>> Stashed changes
+  "active": "fbfe1a760ba02522",
   "lastOpenFiles": [
-    "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/requisitos-proyecto.md",
-    "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/informacion-general.md",
-    "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/documentacion-extra",
-    "🔵┃programacion-multimedia/➊⟧ trimestre/unidad-1/resumen-conceptos.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/expresiones -lambda.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/documentos-pdf/C# Lambda Expresions y LINQ.pdf",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/documentos-word/C# Lambda Expresions y LINQ.docx",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/documentos-pdf",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2/documentos-word",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-2",
-    "🟡┃empresa-iniciativa-emprendedora/unidod-1/ejercicio-analisis/APE-Analisis-CAME-JuanGarcia.pdf",
-    "🟡┃empresa-iniciativa-emprendedora/unidod-1/informacion-trabajo.md",
-    "🟡┃empresa-iniciativa-emprendedora/unidod-1/analisis-dafo.md",
-    "🟡┃empresa-iniciativa-emprendedora/unidod-1",
-=======
-  "active": "f7a369c842cf7df0",
-  "lastOpenFiles": [
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/documentacion/COPIA Práctica Final Gestión de Proyectos.pdf",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen/instrucciones-envio.md",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen/code-templates.md",
->>>>>>> Stashed changes
-    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-pdf/RESUMEN _ HILOS.pdf",
-    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/documentos-pdf/UT1_Ejercicios_programación_multiproceso.pdf",
-    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/preparacion-examen/enunciados-procesos.md",
-    "🟣┃programacion-servicios/➊⟧ trimestre/unidad-1/preparacion-examen/enunciados-hilos.md",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/preparacion-examen/enunciado-2.md",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/preparacion-examen/enunciado-1.md",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/preparacion-examen/enunciado-3.md",
-<<<<<<< Updated upstream
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen/code-templates.md",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/resumen-conceptos.md",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen/instrucciones-envio.md",
-=======
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/preparacion-examen",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen/plantillaVentanaTexto.java",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen/plantillaInterfazVista.java",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen/plantillaControlador.java",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/resumen-conceptos.md",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/informacion-examen",
->>>>>>> Stashed changes
+    "🟡┃empresa-iniciativa-emprendedora/proyecto-ape/cliente-mapa-empatia.md",
+    "informacion-hackathon.md",
+    "🟡┃empresa-iniciativa-emprendedora/proyecto-ape/documentacion-ayuda/mapa-empatia.jpeg",
+    "🟡┃empresa-iniciativa-emprendedora/Untitled",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/proyecto-trimestral.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/diagrama-casos-uso/DI-TRI1-Poryecto-Diagrama-Casos-Uso.jpg",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/Untitled.md",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/documentacion-docker/repositorio-oci-oracle-xe.md",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/ejercicio-manejoFicheros.md",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/documentacion-docker/info-versiones-oracle.md",
-    "🟢┃acceso-datos/➊⟧ trimestre/unidad-1/documentacion-docker/guia-instalacion-docker.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-2/practicas-md/practica-velneo-pyme.md",
-    "2024-10-15.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/objeto-jugador.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/objeto-tablero.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/informacion-general.md",
-    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/simple-logo.webp",
-    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/mascota-san.jpeg",
-    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/ejemplo-mapa-empatia.canvas"
+    "🟡┃empresa-iniciativa-emprendedora/proyecto-ape/documentos-realizados",
+    "🟡┃empresa-iniciativa-emprendedora/proyecto-ape/documentacion-ayuda",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/diagrama-relacional/DI-TRI1-Poryecto-Diagrama-Relacional.jpg",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/diagrama-casos-uso/DI-TRI1-Poryecto-Diagrama-Casos-Uso.png",
+    "🟠┃desarrollo-interfaces/➊⟧ trimestre/proyecto-trimestral/documentacion/COPIA Práctica Final Gestión de Proyectos.pdf"
   ]
 }
