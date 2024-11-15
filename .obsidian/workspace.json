@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "67629956881e6075",
+        "id": "7592e931ce5c29c9",
         "type": "tabs",
         "children": [
           {
-            "id": "8a188206873145b7",
+            "id": "217c20c287eb2ef8",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -39,7 +39,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "7d5e7733df34c1aa",
@@ -150,18 +151,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fbfe1a760ba02522",
+  "active": "217c20c287eb2ef8",
   "lastOpenFiles": [
+    "🟡┃empresa-iniciativa-emprendedora/proyecto-ape/documentacion-ayuda/buyer-personal.pdf",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-ape/cliente-mapa-empatia.md",
+    "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/diseño-ventanas/ventanas-esenciales/ventana-principal.canvas",
+    "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/documento-explicativo.md",
+    "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/informacion-general.md",
+    "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/diseño-ventanas/ventanas-adicionales",
+    "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/diseño-ventanas/ventanas-esenciales",
+    "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/diseño-ventanas",
     "informacion-hackathon.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-ape/documentacion-ayuda/mapa-empatia.jpeg",
     "🟡┃empresa-iniciativa-emprendedora/Untitled",
