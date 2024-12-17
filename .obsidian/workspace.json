@@ -11,10 +11,14 @@
             "id": "217c20c287eb2ef8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🟡┃empresa-iniciativa-emprendedora/proyecto-ape/cliente-mapa-empatia.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "cliente-mapa-empatia"
             }
           }
         ]
@@ -39,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -151,17 +155,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "217c20c287eb2ef8",
   "lastOpenFiles": [
+    "🟡┃empresa-iniciativa-emprendedora/proyecto-ape/problema-solucion.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-ape/documentacion-ayuda/buyer-personal.pdf",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-ape/cliente-mapa-empatia.md",
     "🔵┃programacion-multimedia/➊⟧ trimestre/proyecto-trimestre/diseño-ventanas/ventanas-esenciales/ventana-principal.canvas",
